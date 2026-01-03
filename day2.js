@@ -10,4 +10,5 @@ let totalAmount = principal + interest;
 
 // Use console.log instead of alert for terminal output
 console.log("Simple Interest: " + interest);
-console.log("Total Amount after " + time + " years: " + totalAmount);
+console.log("Total Amount after " + time + " years: " + totalAmount)
+
